@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>layout</title>
+    <style type="text/css">
+        div{font-size: 22px;font-weight: bold;}
+        #r1{background-color: rgb(101, 73, 73);height: 50px;width: 98%;padding-top: 20px;
+            padding-left: 2%; margin-bottom: 10px;}
+        #r2,#r5{background-color: rgb(101, 73, 73); height: 33px;width: 100%;padding-top: 7px;
+             text-align: center;margin-bottom: 10px;} 
+        #r3{background-color:rgb(101, 73, 73) ;height: 50px;width: 100%;padding-top: 15px;
+        text-align: center;}  
+        #r4{height: 600px;width: 100%;margin-bottom: 10px;padding-top: 10px;}
+        #r4c1{width: 28%;margin-bottom: 2%;margin-right: 25px;}
+        #r4c2{width: 70%;}
+        #r4 div{background-color: rgb(101, 73, 73);float: left;padding-top: 280px;
+            text-align:center;height: 320px;}      
+    </style>
+</head>
+<body>
+      <div id="r1">
+        logo
+      </div>
+      <div id="r2">
+        navigation
+      </div>
+      <div id="r3">
+        header
+      </div>
+      <div id="r4">
+        <div id="r4c1">
+            sidbar
+        </div>
+        <div  id="r4c2">
+            body area
+        </div>
+      </div>
+      <div id="r5">
+        footer
+     </div>
+      
+</body>
+</html>
