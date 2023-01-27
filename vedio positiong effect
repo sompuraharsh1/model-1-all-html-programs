@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #myVideo {
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            top: 0;
+            min-width: 100%;
+            min-height: 100px;
+        }
+
+        h1 {
+            color: white;
+
+            text-align: center;
+
+        }
+
+        h4:hover {
+
+            color: gray;
+            cursor: pointer;
+        }
+
+
+        .topleft {
+            position: fixed;
+            top: 5px;
+            left: 35%;
+            font-size: 48px;
+            color: white;
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <video src="C:\Users\student\Desktop\harsh/rupesh.mp4" autoplay loop width="100%"></video>
+
+    </div>
+    <div class="topleft">
+        <h4>
+            Sompura Harsh
+        </h4>
+    </div>
+    <div>
+
+    </div>
+
+
+
+
+
+</body>
+
+</html>
