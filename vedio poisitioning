@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #myVideo {
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            top: 0;
+            min-width: 100%;
+            min-height: 100px;
+        }
+
+        h1 {
+            color: white;
+
+            text-align: center;
+
+        }
+
+        h4:hover {
+
+            color: gray;
+            cursor: pointer;
+
+        }
+        h5:hover {
+
+        color:blue;
+        cursor: pointer;
+        
+        }
+
+
+
+        .topleft {
+            position: fixed;
+            top: 5px;
+            left: 35%;
+            font-size: 48px;
+            color: white;
+
+        }
+        .topright{
+            position: fixed;
+            top: 7%;
+            left: 3%;
+            font-size: 30px;
+            color: white;}
+
+        /* vedio{
+            background-size:cover;
+        } */
+    </style>
+</head>
+
+<body>
+    <div>
+        <video src="C:\Users\student\Desktop\harsh/Pexels Videos 3867.mp4" autoplay loop width="100%"></video>
+
+    </div>
+    <div class="topleft">
+        <h4>
+            Sompura Harsh
+        </h4>
+    </div>
+    <div class="topright">
+        
+            <h5> <i class="fa fa-home" aria-hidden="true"></i> Home</h5>
+            <h5>Login</h5>
+            <h5>About Us</h5>
+            
+            
+    </div>
+
+
+
+
+
+</body>
+
+</html>
