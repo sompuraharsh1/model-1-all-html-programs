@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        body{
+            background-image: url("https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30436.jpg?w=360");
+            background-repeat: no-repeat;
+            background-size:cover ;
+            border:solid white;
+            height: 650px;
+        }
+       p{
+            color: white;
+            padding-top: 170px;
+            padding-left: 135px;
+        }
+        h1{
+            color: white;
+            padding-left: 135px;
+        }
+        button{
+            color: white;
+            background-color:rgb(38, 172, 206);
+            height: 25PX;
+                        
+        }
+        h4{
+            color: white;
+            padding-left: 10px;
+            position: absolute;
+            top: 1px;
+        }
+        B{
+            position: absolute;
+            color: green;
+            left: 91%;
+            padding-top: 20px;
+        }
+        .r1{
+            color: white;
+            position: absolute;
+            left: 96%;
+            top: 35%;
+           
+        }
+       
+        
+
+    </style>
+</head>
+
+<body>
+    <B>MENU</B><A><i class="fa-sharp fa-solid fa-bars" style="COLOR:GRAY; left: 95%; position: absolute; padding-top: 20px;"></i></A>
+
+    <div>
+        
+        <h4>
+            GLINT
+        </h4>
+        <p>
+            WELCOME TO GLINT
+        </p>
+        <h1>
+            Best Website  <br> Templates
+        </h1> <br><br>
+        <button style="margin-left: 110px;">
+            START PROJECT
+        </button>
+        <button>
+            MORE ABOUT US
+        </button>
+    </div>
+    <DIV class="r1">
+        <i class="fa-brands fa-facebook"></i> <br> <br>
+        <i class="fa-brands fa-twitter"></i> <br> <br>
+        <i class="fa-brands fa-instagram"></i> <br> <br>
+        <i class="fa-brands fa-youtube"></i><br> <br>
+    </DIV>
+</body>
+
+</html>
