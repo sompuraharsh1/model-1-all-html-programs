@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        .r{
+            color: white;
+            margin-left: 50px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container-fluid">
+
+    
+    <div class="row">
+        <div class="col-sm-12" style="background-color:rgb(32, 32, 84);">
+            <nav class="navbar navbar-expand-lg bg-body-tertiary">
+                <div class="container-fluid">
+                  <h3 style="color:white; padding-left: 13px;
+
+                  " >Logis</h3>
+                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0" style="padding-left: 72%">
+                      <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#">Link</a>
+                      </li>
+                      <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                          Dropdown
+                        </a>
+                        <ul class="dropdown-menu">
+                          <li><a class="dropdown-item" href="#">Action</a></li>
+                          <li><a class="dropdown-item" href="#">Another action</a></li>
+                          <li><hr class="dropdown-divider"></li>
+                          <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link disabled">Disabled</a>
+                      </li>
+                    </ul>
+                    <!-- <form class="d-flex" role="search">
+                      <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                      <button class="btn btn-outline-success" type="submit">Search</button>
+                    </form> -->
+                  </div>
+                </div>
+              </nav>
+        </div>
+       
+    </div>
+    <div class="row">
+        
+       
+            <div class="col-sm-6" style="background-color:rgb(32, 32, 84); height: 450px;">
+                <h2 class="text-light" style="padding-left:40px; padding-top:20px">
+                    Your Lightining Fast <br>Delievery Partner <br> <br>
+                    <p class="text-light" style="font-size: 13px;" >
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Id consequatur fugiat <br> recusandae sapiente voluptatibus nulla quo dolorem, nemo error eveniet vero <br> totam distinctio eos fuga. Lorem ipsum dolor sit amet consectetur, adipisicing <br> elit. Adipisci accusamus molestiae laboriosam magni ipsam, vitae, velit doloribus <br> blanditiis harum repellendus quos accusantium dolorum aperiam voluptatum <br> non quas autem atque nam.
+                    </p>
+                    
+                </h2>
+                <nav class="navbar navbar-expand-sm " style="padding-left: 40px;">
+                    <form class="form-inline" action="/action_page.php">
+                      <input class="form-control mr-sm-2" type="text" placeholder="Search">
+                      <button class="btn btn-success" type="submit">Search</button>
+                    </form>
+                  </nav> <br>
+                  <h2 style="color: white; padding-left: 35px;">
+                    <b>232</b>
+                    <b style="padding-left: 20px;">521</b>
+                    <b style="padding-left: 20px;">552</b>
+                    <b style="padding-left: 20px;">521</b>
+                    
+                  </h2>
+                  <p style="color: white; padding-left: 35px;">
+                  <b>clients</b>
+                    <b style="padding-left: 20px;">project</b>
+                    <b style="padding-left: 20px;">support</b>
+                    <b style="padding-left: 20px;">workers</b>
+                  </p>
+
+                <div class="row
+                ">
+
+
+                </div>
+                
+              
+            </div>
+        
+            <div class="col-sm-6" style="background-color:rgb(32, 32, 84); height: 450px;" >
+                <img src="https://m.media-amazon.com/images/I/61bLIgIReqL._SL1000_.jpg" alt="" height="400px" style="paddin-top: 20px;">
+            </div>
+            
+            
+          
+
+    </div>
+    <div class="row" style="padding-top: 30px;">
+        <div class="col-sm-4" style=" height: 150px;">
+            
+           <i class="fa fa-bicycle" aria-hidden="true" style="font-size: 50px; padding-left: 40px;"><b style="font-size: 20px;">Lorem Ipsum</b>
+        </i>
+        <p style="padding-left: 30px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia perspiciatis incidunt et nesciunt, obcaecati reprehenderit?</p>
+           
+
+        </div>
+        <div class="col-sm-4" style=" ">
+            <i class="fa fa-truck" aria-hidden="true" style="font-size: 50px; padding-left: 40px;"><b style="font-size: 20px;">Lorem Ipsum</b>
+            </i>
+            <p style="padding-left: 30px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia perspiciatis incidunt et nesciunt, obcaecati reprehenderit?</p>
+        </div>
+        <div class="col-sm-4" >
+            <i class="fa fa-truck-ramp-box" aria-hidden="true" style="font-size: 50px; padding-left: 40px;"><b style="font-size: 20px;">Lorem Ipsum</b>
+            </i>
+            <p style="padding-left: 30px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia perspiciatis incidunt et nesciunt, obcaecati reprehenderit?</p>
+        
+        </div>
+      </div>
+    </div>
+
+</div>
+</body>
+
+</html>
