@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <title>Document</title>
+</head>
+
+<body>
+<div class="container-fluid">
+    <div class="row">
+        
+        <div class="col-sm-12" style="">
+            <div class="collapse" id="navbarToggleExternalContent">
+                <div class="bg-light p-4">
+                  <h5 class="text-white h4">Collapsed content</h5>
+                  <span class="text-muted">Toggleable via the navbar brand.</span>
+                  
+                </div>
+              </div>
+              <nav class="navbar navbar-light bg-light">
+                <div class="container-fluid">
+                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+
+                    <span class="navbar-toggler-icon"></span>
+                    
+                  </button>
+                  <ul class="nav justify-content-end">
+                    <li class="nav-item">
+                      <a class="nav-link active" aria-current="page" href="#">Active</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Link</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Link</a>
+                    </li>
+                    
+                  </ul>
+                </div>
+                
+              </nav>
+              
+
+            </div>
+       
+        </div>
+        <hr style="text-decoration: dotted 3px;">
+    </div>
+         
+     </div>
+</div>
+<div class="row">
+    <div class="col-sm-4" style="">
+        <H2 style="padding-left: 40px; color: rgb(53, 53, 160); padding-top: 50px; ">
+            SEARCH ENGINE <BR> RANKING
+        <BR> <p style="font-size: 10px; text-align: justify;">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit.<br> Ipsa ipsum, vel repellendus itaque facilis nihil  beatae <br> autem delectus fuga exercitationem? Tempore eveniet labore.
+        </p>
+        </H2>
+        <button style="width: 100px; border-radius: 40px; background: linear-gradient(blue,violet);color: white; margin-left: 40px; margin-top: 60%;">
+            Read More
+        </button>
+
+     </div>
+   <div class="col-sm-8" style="">
+    <img src="https://th.bing.com/th/id/R.bad0f6e71632082019dfae31be08da81?rik=353QlNiFzkyUrA&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fe%2f3%2fd%2f15259.jpg&ehk=UgMp02ytaxItX17b2a70Dadmfa1xks4A%2fNjqx%2bz1rDo%3d&risl=&pid=ImgRaw&r=0" width="100%" alt="" style="border-radius: 200px 200px 200px 200px; padding-top: 5px;">
+   </div>
+
+</div>
+    
+</body>
+
+</html>
